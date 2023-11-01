@@ -1,0 +1,174 @@
+p.longpressed-clear {
+  background: rgba(255,255,255,0.0);
+  padding: 0px 50px 0px 50px;
+  max-height: 0px;
+  font-family: 'ABeeZee', sans-serif;
+  text-transform: uppercase;
+  color: #FEFEF0;
+  display: inline;
+  margin: 10px;
+}
+
+/* 1 */
+
+p.longpressed1 {
+  background: #76CDC4;
+  padding: 20px 50px;
+  font-family: 'ABeeZee', sans-serif;
+  text-transform: uppercase;
+  color: #FEFEF0;
+  display: inline;
+  margin: 10px;
+}
+
+.longpress1 {
+  -webkit-animation: 1s longpress1;
+  animation: 1s longpress1;
+}
+
+@-webkit-keyframes longpress1 {
+
+  0%,
+  20% {
+    background: #76CDC4;
+  }
+
+  100% {
+    background: #589ea3;
+  }
+}
+
+@keyframes longpress1 {
+
+  0%,
+  20% {
+    background: #76CDC4;
+  }
+
+  100% {
+    background: #589ea3;
+  }
+}
+
+/* 2 */
+
+p.longpressed2 {
+  background: #FFD392;
+    padding: 20px 50px;
+  font-family: 'ABeeZee', sans-serif;
+  text-transform: uppercase;
+  color: #FEFEF0;
+  display: inline;
+  margin: 10px;
+}
+
+.longpress2 {
+  -webkit-animation: 1s longpress2;
+  animation: 1s longpress2;
+}
+
+@-webkit-keyframes longpress2 {
+
+  0%,
+  20% {
+    background: #FFD392;
+  }
+
+  100% {
+    background: #e8a674;
+  }
+}
+
+@keyframes longpress2 {
+
+  0%,
+  20% {
+    background: #FFD392;
+  }
+
+  100% {
+    background: #e8a674;
+  }
+}
+
+/* 3 */
+
+p.longpressed3 {
+  background: #BACABB;
+    padding: 20px 50px;
+  font-family: 'ABeeZee', sans-serif;
+  text-transform: uppercase;
+  color: #FEFEF0;
+  display: inline;
+  margin: 10px;
+}
+
+.longpress3 {
+  -webkit-animation: 1s longpress3;
+  animation: 1s longpress3;
+}
+
+@-webkit-keyframes longpress3 {
+
+  0%,
+  20% {
+    background: #BACABB;
+  }
+
+  100% {
+    background: #719178;
+  }
+}
+
+@keyframes longpress3 {
+
+  0%,
+  20% {
+    background: #BACABB;
+  }
+
+  100% {
+    background: #719178;
+  }
+}
+
+/* 4 */
+
+p.longpressed4 {
+  background: #A6C0C2;
+    padding: 20px 50px;
+  font-family: 'ABeeZee', sans-serif;
+  text-transform: uppercase;
+  color: #FEFEF0;
+  display: inline;
+  margin: 10px;
+}
+
+.longpress4 {
+  -webkit-animation: 1s longpress4;
+  animation: 1s longpress4;
+}
+
+@-webkit-keyframes longpress4 {
+
+  0%,
+  20% {
+    background: #A6C0C2;
+  }
+
+  100% {
+    background: #7e949e;
+  }
+}
+
+@keyframes longpress4 {
+
+  0%,
+  20% {
+    background: #A6C0C2;
+  }
+
+  100% {
+    background: #7e949e;
+  }
+}

@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.body {
+  border: 3px solid #170A1C;
+  box-shadow: 12px 12px 2px 1px #e1e6f2;
+  background-color: white;
+  padding: 50px;
+  margin: 20px;
+  width: 500px;
+  position: relative;
+}
+
+.button-container {
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.button-wrapper {
+  text-align: center;
+  display: inline-block;
+}
+
+.text-above {
+  font-family: 'ABeeZee', sans-serif;
+  color: #170A1C;
+  max-height: 0px;
+}
+
+.title {
+  color: #170A1C;
+  font-family: 'ABeeZee', sans-serif;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-family: 'Libre Baskerville', serif;
+}
