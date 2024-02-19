@@ -1,3 +1,14 @@
+p.score-box {
+  background: white;
+  font-family: 'ABeeZee', sans-serif;
+  padding: 20px 50px;
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  display: inline;
+  margin: 10px;
+}
+
 p.longpressed-clear {
   background: rgba(255,255,255,0.0);
   padding: 0px 50px 0px 50px;
